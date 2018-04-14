@@ -1,8 +1,13 @@
 # BUAA Operating System Experiment Guide Book [![Build Status](https://travis-ci.org/SivilTaram/BUAAOS-guide-book.svg?branch=master)](https://travis-ci.org/SivilTaram/BUAAOS-guide-book)
 
-## NO MORE UPDATES. THE LATEAST VERSION IS HOSTED ON GITLAB ( PUBLIC LATER ).
 
 ## ChangeLog
+
+### 2018/3/1
+
+**NO MORE UPDATES. THE LATEAST VERSION IS HOSTED ON GITLAB**
+
+https://git.cscore.net.cn/star_os/guide-book
 
 ### 2016/8/7
 Update the automatic compilation system.
